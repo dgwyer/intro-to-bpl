@@ -27,8 +27,8 @@ Open any notebook on GitHub to read the notes and saved results. To experiment, 
 
 Run the setup cells to install BasedPL and load its notebook extension. The examples use the `%%bpl` cell magic. The saved runs used BasedPL 0.1.90 and 0.1.91. The setup cells may install a newer release. If you're using Jupyter, skip the SolveIt-specific `%%prompt` cells in notebooks 05 and 12.
 
-Run notebook 09 in a working directory where `bpl-files` is available for scratch data. The examples create that folder and remove it at the end.
+Run notebook 09 in a fresh working directory. Its examples create `bpl-files` and remove it at the end.
 
 ## Sources
 
-The notebooks adapt examples from [AnswerDotAI's BasedPL documentation and source repository](https://github.com/AnswerDotAI/basedpl). The [upstream Apache 2.0 licence](LICENSE-BASEDPL) is included for that material.
+The notebooks adapt examples from [AnswerDotAI's BasedPL documentation and source repository](https://github.com/AnswerDotAI/basedpl). The [upstream Apache 2.0 licence](third-party/basedpl/LICENSE) is included for that material.
