@@ -1,6 +1,6 @@
 # Intro to BPL
 
-I made these 16 SolveIt dialogs while learning BasedPL (BPL). They follow topics from the [official BasedPL docs](https://answerdotai.github.io/basedpl/) and include the examples I tried and their results.
+I made these 16 sample dialogs in SolveIt while learning BasedPL (BPL). I wrote my own examples for topics I picked from the [official BasedPL docs](https://answerdotai.github.io/basedpl/).
 
 ## Run in SolveIt
 
@@ -34,7 +34,3 @@ Chapter 9 creates a scratch folder named `bpl-files` and deletes it at the end.
 14. [Autodiff and ML](dialogs/14%20Autodiff%20and%20ML.ipynb)
 15. [Plotting and Pictures](dialogs/15%20Plotting%20and%20Pictures.ipynb)
 16. [Bigger Dfns](dialogs/16%20Bigger%20Dfns.ipynb)
-
-## Sources
-
-The dialogs adapt examples from [AnswerDotAI's BasedPL docs and source](https://github.com/AnswerDotAI/basedpl). The [upstream Apache 2.0 licence](third-party/basedpl/LICENSE) is included for that material.
