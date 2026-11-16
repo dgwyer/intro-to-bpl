@@ -1,6 +1,6 @@
 # Intro to BPL
 
-I made these 16 sample dialogs in SolveIt while learning BasedPL (BPL). I wrote my own examples for topics I picked from the [official BasedPL docs](https://answerdotai.github.io/basedpl/).
+I made these 16 sample dialogs in SolveIt while learning [BasedPL](https://answerdotai.github.io/basedpl/).
 
 ## Run in SolveIt
 
